@@ -3,7 +3,7 @@
  *  Course:  Object oriented Design                                            *
  *  Project: Due 11-27-2016                                                    *
  *  File:    Courses.h                                                         *
- *  Header for Courses class										           *
+ *  Header for Courses class						       *
  *******************************************************************************/
 
 #ifndef COURSES_H
