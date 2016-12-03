@@ -1,0 +1,24 @@
+Computer Science & Engineering
+Advanced Python,Data Structures,Automata Theo/Formal Languages,Ethical Issues/Profess Conduct,Analysis Of Algorithms,Information Security & Privacy,Compilers,Computer Networks I 
+Mark Di Sano,Ahmad Babeian Jelodar
+Ralph Tindell,William Hendrix
+
+Civil Engineering
+Sustainable Develop Engineerin,Thermodynamics,Hydraulics,Water Pollution & Treatment,Statics,Dynamics,Concepts of Steel Design,Transportation Engineering
+Connor Boethig,Natalie Waller
+James R. Mihelcic,Karim Nohra,Nicholas Albergo,William Carpenter
+
+Chemical Engineering
+Introduction to ChBME,Fate and Transport,ChBME Computations,Chem Lab I,Kinetics & Reactions,Organic Chem,Material & Energy,Intro to Materials Sci
+Jennyfer Munoz,Lily Tang,Chris Salgado,Adrian Borrego
+Scott Campbell,Sandy Pettit
+
+Mechanical Engineering
+Mechanical Design,Capstone Design,Computational Methods,Microcontrollers,Hydro and Aerodynamics,Tribology,Intro to Composite Materials,Vibrations
+Eric Valentino,Wael Al-Sawai
+Don Dekker,Autar Kaw
+
+Electrical Engineering
+MEMS I/Chem Bio Sensors,Elec Engnrg Computer Methods,Logic Design,Embedded Systems,Electromechanical Systems,Electromagnetics,Network Analysis,Microprocessors
+Cole Hill,Adnan Zaman
+Jing Wang,Alexandro Castellanos

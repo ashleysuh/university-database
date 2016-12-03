@@ -1,0 +1,79 @@
+Ralph Tindell
+6/25/1970
+M
+U39761588
+Computer Science & Engineering
+Professor
+Advanced Python, Data Structures, Automata Theo/Formal Languages
+
+William Hendrix  
+3/14/1981
+M
+U90205401
+Computer Science & Engineering
+Lecturer
+Ethical Issues/Profess Conduct, Analysis Of Algorithms
+
+Jing Wang
+10/12/1985
+F
+U43012076
+Electrical Engineering
+Adjunct
+MEMS I/Chem Bio Sensors
+
+Alexandro Castellanos
+11/2/1982
+M
+U25666945
+Electrical Engineering
+Lecturer
+Elec Engnrg Computer Methods, Logic Design, Embedded Systems
+
+Don Dekker 
+9/2/1978
+M
+U91021408
+Mechanical Engineering
+Adjunct
+Mechanical Design, Capstone Design
+
+Autar Kaw 
+2/21/1980
+M
+U13261600
+Mechanical Engineering
+Professor
+Computational Methods, Mechanical Design
+
+Scott Campbell 
+7/4/1975
+M
+U96921796
+Chemical Engineering
+Professor
+Introduction to ChBME, Fate and Transport
+
+Sandy Pettit
+12/2/1982
+F
+U54666010
+Chemical Engineering
+Lecturer
+ChBME Computations, Chem Lab I
+
+James R. Mihelcic
+8/17/1982
+M
+U38950350
+Civil Engineering
+Professor
+Sustainable Develop Engineerin, Water Pollution & Treatment
+
+Karim Nohra 
+2/1/1978
+M
+U23489771
+Civil Engineering
+Lecturer
+Statics, Dynamics

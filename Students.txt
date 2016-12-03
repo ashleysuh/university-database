@@ -1,0 +1,89 @@
+Cole Hill
+1/2/1995
+M
+U30930093
+Undergraduate
+Electrical Engineering
+Elec Engnrg Computer Methods,Logic Design,Embedded Systems
+A,A,A
+
+Eric Valentino
+2/1/1996
+M
+U27558566
+Undergraduate
+Mechanical Engineering
+Mechanical Design,Capstone Design,Computational Methods
+A,B,A
+
+Mark Di Sano
+3/2/1992
+M
+90007519
+Graduate TA
+Computer Science & Engineering
+Data Structures
+//No grades
+
+Adnan Zaman
+4/2/1992
+M
+44762297
+Graduate TA
+Electrical Engineering
+Logic Design
+//No grades
+
+Ahmad Babeian Jelodar
+5/2/1992
+M
+44501012
+Graduate TA
+Computer Science & Engineering
+Analysis Of Algorithms
+//No grades 
+
+Jennyfer Munoz
+4/12/1996
+F
+60354737
+Undergraduate
+Chemical Engineering
+Fate and Transport,ChBME Computations
+A,A
+
+Wael Al-Sawai
+6/24/1993
+M
+22970636
+Graduate RA
+Mechanical Engineering
+//No courses 
+//No grades
+
+Connor Boethig
+8/13/1996
+M
+72407263
+Undergraduate
+Civil Engineering
+Computational Methods,Mechanical Design,Dynamics
+B,C
+
+Lily Tang
+11/30/1995
+F
+03862049
+Undergraduate
+Chemical Engineering
+ChBME Computations,Chem Lab I,Dynamics
+B,B
+
+Natalie Waller
+12/5/1996
+F
+40558466
+Undergraduate
+Civil Engineering
+Sustainable Develop Engineerin,Statics,Dynamics
+B,C,C

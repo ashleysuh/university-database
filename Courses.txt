@@ -1,0 +1,89 @@
+Data Structures
+Computer Science & Engineering
+No students enrolled
+Ralph Tindell
+Mark Di Sano
+
+Ethical Issues/Profess Conduct
+Computer Science & Engineering
+No students enrolled
+William Hendrix
+No TA enrolled
+
+Analysis Of Algorithms
+Computer Science & Engineering
+Ashley Suh,Adrian Borrego,Natalie Waller,Lily Tang
+William Hendrix,Ralph Tindell,Sriram Chellappan
+Ahmad Babeian Jelodar
+
+Sustainable Develop Engineerin
+Civil Engineering
+Natalie Waller
+James R. Mihelcic
+No TA enrolled
+
+Statics
+Civil Engineering
+Natalie Waller
+Karim Nohra
+No TA enrolled
+
+Dynamics
+Civil Engineering
+Connor Boethig,Lily Tang,Natalie Waller
+Karim Nohra
+No TA enrolled
+
+Fate and Transport
+Chemical Engineering
+Jennyfer Munoz
+Scott Campbell
+No TA enrolled
+
+ChBME Computations
+Chemical Engineering
+Jennyfer Munoz,Lily Tang
+Sandy Pettit
+No TA enrolled
+
+Chem Lab I
+Chemical Engineering
+Lily Tang,
+Sandy Pettit
+No TA enrolled
+
+Mechanical Design
+Mechanical Engineering
+Eric Valentino,Connor Boethig
+Don Dekker,Autar Kaw
+No TA enrolled
+
+Capstone Design
+Mechanical Engineering
+Eric Valentino
+Don Dekker
+No TA enrolled
+
+Computational Methods
+Mechanical Engineering
+Eric Valentino,Connor Boethig
+Autar Kaw
+No TA enrolled
+
+Elec Engnrg Computer Methods
+Electrical Engineering
+Cole Hill
+Alexandro Castellanos
+No TA enrolled
+
+Logic Design
+Electrical Engineering
+Cole Hill
+Alexandro Castellanos
+Adnan Zaman
+
+Embedded Systems
+Electrical Engineering
+Cole Hill
+Alexandro Castellanos
+No TA enrolled
