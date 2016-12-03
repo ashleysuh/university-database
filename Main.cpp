@@ -1,9 +1,9 @@
 /**************************************************************************************************************
- *  Author:  Ashley Suh & Adrian Borrego																      *
- *  Course:  Object oriented Design																		      *
- *  Project: Due 11-27-2016																				      *
- *  File:    Main.cpp -- to test University Admin System													  *
- *																											  *
+ *  Author:  Ashley Suh & Adrian Borrego								      *							      *
+ *  Course:  Object oriented Design									      *									      *
+ *  Project: Due 11-27-2016										      *										      *
+ *  File:    Main.cpp -- to test University Admin System						      *							  *
+ *													      *														  *
  *  Each function call has a specific purpose with comments detailing the implementation. The bulk of the     *
  *  work is done in every individual .cpp file. Text files are read and objects are created by pushing them   *
  *  back into a vector, with respect to that class. An object can be created by assigning it to a specific    *
@@ -11,8 +11,8 @@
  *  teacher, and course have a Department. A Department has students, teachers, and courses. Students can be  *
  *  undergradutes or graduates (TA or RA). Teachers can be adjuncts, lecturers, or professors. To save space, *
  *  we have only printed the names of each object from the vector of that class. We have commented out the    *
- *  function call to print all information found from the text file. If needed, uncomment the lines	          *
- *  36, 40, 44, and 48 to view complete information.						                                  *
+ *  function call to print all information found from the text file. If needed, uncomment the lines	      *
+ *  36, 40, 44, and 48 to view complete information.						              *                    *
  **************************************************************************************************************/
 #include <iostream> 
 #include <vector>   
